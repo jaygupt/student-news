@@ -1,0 +1,15 @@
+.main-cards{
+    background-color: rgb(255, 255, 255);
+    flex-flow: column;
+    align-items: center;
+    width: 800px ;
+    height: 300px;
+  -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+  filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+  border-radius: 15px;
+  box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+  overflow: hidden;
+  position: relative;
+  margin:0.4in; 
+  text-decoration: double;
+  }
