@@ -10,27 +10,27 @@ const Cardview = () => {
     return(
         <div className = "cardList">
             <div className = "main-cards" data-aos="zoom-in" data-aos-duration="1000">
-                <h3><center>This is a card</center></h3>
+                <h3 className = "cardtext"><center>This is a card</center></h3>
             </div>
 
             <div className = "main-cards" data-aos="zoom-in" data-aos-duration="1000">
-                <h3><center>This is a card</center></h3>
+                <h3 className = "cardtext"><center>This is a card</center></h3>
             </div>
 
             <div className = "main-cards" data-aos="zoom-in" data-aos-duration="1000">
-                <h3><center>This is a card</center></h3>
+                <h3 className = "cardtext"><center>This is a card</center></h3>
             </div>
 
             <div className = "main-cards" data-aos="zoom-in" data-aos-duration="1000">
-                <h3><center>This is a card</center></h3>
+                <h3 className = "cardtext"><center>This is a card</center></h3>
             </div>
 
             <div className = "main-cards" data-aos="zoom-in" data-aos-duration="1000">
-                <h3><center>This is a card</center></h3>
+                <h3 className = "cardtext"><center>This is a card</center></h3>
             </div>
 
             <div className = "main-cards" data-aos="zoom-in" data-aos-duration="1000">
-                <h3><center>This is a card</center></h3>
+                <h3 className = "cardtext"><center>This is a card</center></h3>
             </div>
         </div> 
     );
