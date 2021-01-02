@@ -31,7 +31,7 @@ function App() {
         <h2 className = "title2">
           <center>Selected By Students For Students</center>
         </h2>
-        <Cardview/>
+        <center><Cardview/></center>
       </header>
         
     </div>
