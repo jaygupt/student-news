@@ -5,11 +5,21 @@ import Col from 'react-bootstrap/Col';
 import logo from './bullDog.png';
 import Image from 'react-bootstrap/Image';
 import './App.css';
+import Navbar from './Components/Navbar';
 import Cardview from './Components/Cardview';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
+      <header className = "bar-header">
+        <Router>
+          <Navbar/>
+          <Switch>
+            <Route path = '/'/>
+          </Switch>
+        </Router>
+      </header>
       <header className="App-header">
         <h2 className = "title1">
           <center>Student News</center>
