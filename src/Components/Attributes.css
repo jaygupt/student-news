@@ -1,0 +1,20 @@
+.card-attributes {
+  list-style: none;
+  width: 800px;
+  height: 90px;
+  margin-top: 215px;
+  padding: 0;
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.card-attributes > li {
+  display: inline-block;
+  width: 200px;
+  height: 100%;
+}
+
+.MuiSvgIcon-root {
+  margin-left: 5px; 
+}
