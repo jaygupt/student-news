@@ -3,6 +3,7 @@
   width: 800px;
   height: 100%;
   padding: 0;
+  margin-bottom: 0; 
   white-space: nowrap;
   overflow-x: auto;
   overflow-y: hidden;
