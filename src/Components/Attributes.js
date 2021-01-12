@@ -3,8 +3,6 @@ import AppButton from "./AppButton";
 import {ThumbUp, ThumbDown, Share} from '@material-ui/icons'; 
 import "./Attributes.css"
 
-// test comment
-
 function Attributes() {
   return (
     <div className="main-div">
