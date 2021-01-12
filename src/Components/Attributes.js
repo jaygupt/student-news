@@ -1,6 +1,6 @@
 import React from "react"; 
 import AppButton from "./AppButton";
-import {ThumbUp, Save, Reply, Share} from '@material-ui/icons'; 
+import {ThumbUp, ThumbDown, Share} from '@material-ui/icons'; 
 import "./Attributes.css"
 
 function Attributes() {
@@ -14,14 +14,9 @@ function Attributes() {
           buttonColor="#1DA1F2"
         /></li>
         <li><AppButton 
-          type="Save" 
-          icon={<Save fontSize="medium"/>}
+          type="Dislike" 
+          icon={<ThumbDown fontSize="medium"/>}
           buttonColor="#DFE1E4"
-        /></li>
-        <li><AppButton 
-          type="Reply" 
-          icon={<Reply fontSize="medium"/>}
-          buttonColor="#5DCD11"
         /></li>
         <li><AppButton 
           type="Share" 

@@ -1,19 +1,16 @@
 .card-attributes {
   list-style: none;
-  width: 800px;
+  text-align: center;
   height: 100%;
   padding: 0;
   margin-bottom: 0; 
   white-space: nowrap;
-  overflow-x: auto;
+  overflow-x: hidden;
   overflow-y: hidden;
 }
 
-
-
-.card-attributes > li {
+.card-attributes > li { 
   display: inline-block;
-  width: 200px;
   height: 50%;
 }
 
