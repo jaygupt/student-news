@@ -12,12 +12,16 @@
 .card-attributes > li { 
   display: inline-block;
   height: 50%;
+  margin-left: 8%; 
+  margin-right: 8%; 
 }
 
 .MuiSvgIcon-root {
-  margin-left: 5px; 
+  margin-left: 10px; 
 }
 
 .card-line {
-  margin-top: 195px; 
+  margin-top: 12px; 
+  margin-bottom: 12px; 
+  width: 95%; 
 }

@@ -1,5 +1,4 @@
 .navBar {
-    
     height: 80px;
     display: flex;
     justify-content: start;
@@ -84,7 +83,4 @@
     justify-content: right;
     align-items: center;
     color:rgb(31, 31, 31);
-}
-span {
-    margin-left: 16px;
 }
