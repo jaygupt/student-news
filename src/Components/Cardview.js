@@ -10,7 +10,7 @@ const Cardview = () => {
     return(
         <div className = "cardList">
             <Card 
-                imageSrc="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg"
+                imageSrc="https://dante.swiftideas.com/wp-content/uploads/2013/03/parallax_bridge1.jpg"
                 imageAlt="Sample Image"
                 cardTitle="Hello World"
                 cardSummary="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu sem aliquam, tincidunt eros vitae, tempor felis. Maecenas suscipit ex eu leo ornare, eget sollicitudin orci eleifend hell"
@@ -22,7 +22,7 @@ const Cardview = () => {
                 cardSummary="Hello, everyone! This is the LONGEST TEXT EVER! I was inspired by the various other longest texts ever on the internet, and I wanted to make my own. So here it is! This is going to be a WORLD RECORD! This is actually my third attempt at doing this. The first time, I didn't save it. The second time, the Neocities editor crashed. Now I'm writing this in Notepad, then copying it into"
             />
             <Card 
-                imageSrc="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg"
+                imageSrc="https://mobirise.com/bootstrap-carousel/assets2/images/mitchel-lensink-205264-2000x1333.jpg"
                 imageAlt="Sample Image"
                 cardTitle="Hello World"
                 cardSummary="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu sem aliquam, tincidunt eros vitae, tempor felis. Maecenas suscipit ex eu leo ornare, eget sollicitudin orci eleifend"
